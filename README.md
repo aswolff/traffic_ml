@@ -29,8 +29,8 @@ You can install the required libraries using pip:
 To start the simulation, run the traffic.py script:
 python traffic.py
 
-Customization
+##Customization
 You can customize the simulation by modifying parameters in the traffic.py file, such as the car generation rate, traffic light switching logic, and more, to explore different traffic management strategies.
 
-Reinforcement Learning Model
+##Reinforcement Learning Model
 This project uses the Proximal Policy Optimization (PPO) algorithm for training the traffic light control agent. The model aims to learn an optimal policy for switching traffic lights to improve traffic flow and reduce waiting times.
