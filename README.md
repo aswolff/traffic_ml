@@ -1,4 +1,4 @@
-# Traffic-Mind
+# Traffic Mind
 # Traffic Light Simulation with Reinforcement Learning
 
 This project is a simulation of traffic flow at an intersection, controlled by traffic lights whose states are determined through reinforcement learning (RL). The simulation is built using Python, leveraging libraries such as Pygame for visualization and Stable Baselines3 for implementing the RL agent.
