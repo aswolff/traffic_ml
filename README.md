@@ -26,7 +26,7 @@ You can install the required libraries using pip:
 - pip install pygame numpy gymnasium stable-baselines3
 
 ### Running the Simulation
-To start the simulation, run the main.py script in /src:
+To start the simulation, run the main.py script in src:
 python src/main.py
 
 ### Customization
