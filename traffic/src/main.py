@@ -20,7 +20,7 @@ def main():
             obs, info = env.reset()
 
     # Ensure the models directory exists
-    model_save_dir = "../models"
+    model_save_dir = "./models"
     if not os.path.exists(model_save_dir):
         os.makedirs(model_save_dir)
 
