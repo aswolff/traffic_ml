@@ -26,11 +26,11 @@ You can install the required libraries using pip:
 - pip install pygame numpy gymnasium stable-baselines3
 
 ### Running the Simulation
-To start the simulation, run the traffic.py script:
-python traffic.py
+To start the simulation, run the main.py script in /src:
+python src/main.py
 
 ### Customization
-You can customize the simulation by modifying parameters in the traffic.py file, such as the car generation rate, traffic light switching logic, and more, to explore different traffic management strategies.
+You can customize the simulation by modifying parameters in the config.py file, such as the car generation rate, traffic light switching logic, and more, to explore different traffic management strategies.
 
 ### Reinforcement Learning Model
 This project uses the Proximal Policy Optimization (PPO) algorithm for training the traffic light control agent. The model aims to learn an optimal policy for switching traffic lights to improve traffic flow and reduce waiting times.
