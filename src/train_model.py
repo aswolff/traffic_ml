@@ -22,7 +22,7 @@ class TrainModel:
                 self.save_model()
 
             self.check_done = self.env.trafficsim.process_events()
-            iteration += 1
+            self.iteration += 1
 
     def save_model(self):
         model_save_dir = "./models"
