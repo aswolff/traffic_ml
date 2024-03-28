@@ -1,0 +1,9 @@
+- OS: macOS-10.16-x86_64-i386-64bit Darwin Kernel Version 22.2.0: Fri Nov 11 02:08:47 PST 2022; root:xnu-8792.61.2~4/RELEASE_X86_64
+- Python: 3.11.0
+- Stable-Baselines3: 2.2.1
+- PyTorch: 2.2.1
+- GPU Enabled: False
+- Numpy: 1.26.4
+- Cloudpickle: 2.2.1
+- Gymnasium: 0.29.1
+- OpenAI Gym: 0.26.2
